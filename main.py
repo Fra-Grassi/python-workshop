@@ -24,6 +24,7 @@ for i in range(settings.trial_num):
                                      condition="response cond", key_list=["left", "down", "right"])
     response_slides.append(this_slide)
 
+# Test
 
 # Prepare results object:
 results = Results()
